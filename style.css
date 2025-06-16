@@ -1,13 +1,19 @@
 body {
     background-color: black;
     color: white;
+    font-family: "Figtree", sans-serif;
 }
 
 header {
     font-weight: bold;
-    font-family: sans-serif;
+    font-family: "Permanent Marker", cursive;
+    text-align: center;
+    font-size: 24px;
+    background-color: gray;
+    color: black;
 }
 
 h1 {
-    font-family: monospace;
+    text-align: center;
+    font-size: 36px;
 }
