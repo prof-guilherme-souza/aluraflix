@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: hsl(50, 5%, 10%);
+    color: rgb(236, 250, 255);
     font-family: "Figtree", sans-serif;
 }
 
@@ -16,7 +16,8 @@ header {
 h1 {
     text-align: center;
     font-size: 36px;
-    border: 4px dotted gray;
+    color: yellow;
+    border: 4px dotted orange;
     padding: 20px;
     margin: 10px;
 }
