@@ -34,3 +34,13 @@ section {
 .chamada-texto {
     margin-right: 10px;
 }
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+img {
+    height: 200px;
+}
