@@ -11,6 +11,7 @@ header {
     font-size: 24px;
     border-bottom: 4px double rgb(100, 180, 180);
     color: rgb(50, 120, 120);
+    margin-bottom: 20px;
 }
 
 h1 {
@@ -20,4 +21,16 @@ h1 {
     border: 4px dotted orange;
     padding: 20px;
     margin: 10px;
+}
+
+section {
+    background: #00183b;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 10px;
 }
